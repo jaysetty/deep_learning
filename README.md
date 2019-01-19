@@ -1,2 +1,7 @@
-# deep_learning
-Machine Learning Welcome to Jayanth Rasamsetti's repository about Machine Learning. Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.  Here you can find all classroom files pertaining to my machine learning classes taught at different institutes. These include:  Slides of lectures In class excercises Assignments Enjoy the coursework! -- Jayanth Rasamsetti
+# Deep Learning
+Deep Learning 
+Welcome to Jayanth Rasamsetti's repository about Deep Learning. 
+Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-specific algorithms. Learning can be supervised, semi-supervised or unsupervised. Deep learning architectures such as deep neural networks, deep belief networks and recurrent neural networks have been applied to fields including computer vision, speech recognition, natural language processing, audio recognition, social network filtering, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases superior to human experts. (Source: wikipedia.org)
+
+
+Here you can find all classroom files pertaining to my machine learning classes taught at various institutes. These include:  Slides of lectures In class excercises Assignments Enjoy the coursework! -- Jayanth Rasamsetti
